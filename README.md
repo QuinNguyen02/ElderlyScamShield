@@ -6,6 +6,9 @@
 
 When my grandmother almost fell victim to a phone scam last year, it hit home how vulnerable our elderly family members are to increasingly sophisticated voice scams. This project was born from a simple question: "How can we protect our loved ones while preserving their independence?"
 
+## 🎥 Demo Video
+[![Demo Video](demo_thumbnail.png)](https://drive.google.com/file/d/1r4WroSja_BnJ5iMtJEcH1K6keB4VAxQn/view?usp=sharing)
+
 ## What We've Built
 
 We've created a real-time scam detection system that:
