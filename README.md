@@ -59,22 +59,6 @@ We've created a real-time scam detection system that:
 - Custom ML classifier for scam detection
 - Optimized audio processing pipeline
 
-## How It Works 🔄
-
-1. **Audio Capture**: High-quality audio capture with noise reduction
-2. **Real-time Processing**: Continuous audio stream processing in 3-second chunks
-3. **Smart Analysis**: Advanced ML model analyzes speech patterns
-4. **Instant Alerts**: Clear visual warnings for potential scams
-5. **Family Connection**: Easy sharing of suspicious calls with family
-
-## Why Choose Elderly Scam Shield? 🎯
-
-- **Proven Effectiveness**: Successfully detects common scam patterns
-- **Easy to Use**: Designed specifically for elderly users
-- **Privacy Conscious**: Local processing with optional cloud features
-- **Always Learning**: Improves with user feedback
-- **Family Peace of Mind**: Keeps family informed of potential threats
-
 ## Challenges We Faced 🤔
 
 Building this wasn't easy. Here are some real challenges we encountered:
@@ -102,8 +86,6 @@ Building this wasn't easy. Here are some real challenges we encountered:
 
 ## What's Next? 🚀
 
-We're actively working on improvements:
-
 ### Short Term Goals
 1. Better speech recognition accuracy
    - Fine-tune Whisper for phone conversations
@@ -115,12 +97,6 @@ We're actively working on improvements:
    - Add multi-language support
    - Implement continuous learning
    - Reduce false positives
-
-3. User Experience
-   - Simpler interface for elderly users
-   - Better audio visualization
-   - More feedback options
-   - Family dashboard
 
 ### Long Term Vision
 1. **Offline Mode**: Local processing for privacy
@@ -145,24 +121,6 @@ We're actively working on improvements:
    npm start
    ```
 
-## Contributing 🤝
-
-We welcome contributions! Whether it's:
-- Reporting bugs
-- Suggesting features
-- Improving documentation
-- Adding translations
-- Sharing scam patterns
-
-Every bit helps protect more elderly people from scams.
-
-## Support & Community 💪
-
-We're constantly improving! Submit issues or feature requests through:
-- GitHub Issues
-- In-app feedback
-- Contact support
-
 ## Current State and Limitations 🎯
 
 Being transparent about where we are:
@@ -181,23 +139,6 @@ Being transparent about where we are:
 - Limited language support
 - Needs better noise handling
 - Model needs more training data
-
-### Best Use Cases
-- Quiet environments
-- English conversations
-- Clear phone audio
-- Patient users who understand false positives
-- Users comfortable with technology
-
-### Not Recommended For
-- Very noisy environments
-- Non-English conversations (yet)
-- Mission-critical security
-- Completely automated blocking
-
-## License 📄
-
-MIT License - See LICENSE file for details
 
 ---
 
