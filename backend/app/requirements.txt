@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+openai-whisper
+torch
+scikit-learn
+pandas
+numpy
+soundfile
+python-multipart
+aiofiles
+websockets
+python-socketio
+requests
+aiohttp

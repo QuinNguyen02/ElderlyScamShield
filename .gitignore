@@ -1,0 +1,71 @@
+# Project specific
+plan.md
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build & Distribution
+/dist
+/build
+/frontend/build
+*.egg-info/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+/coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+
+# Audio files (if any test files)
+*.wav
+*.mp3
+*.pcm
+
+# Model files (if needed to exclude)
+/model/versions/
+*.pkl
+!model/baseline_model.pkl  # Keep the main model file
+
+# Temporary files
+.temp/
+temp/
+tmp/
+*.tmp
+
+# Local development
+.env.development.local
+.env.test.local
+.env.production.local
+
+# System Files
+Thumbs.db
